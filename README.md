@@ -8,16 +8,16 @@ If you have any question, please write me an email. I appreciate pro-active comm
 # Programming part
 
 * Install (mini)conda
-* . ~/miniconda3/etc/profile.d/conda.sh
-* conda create -n student-assignment
-* conda activate student-assignment
-* conda install pytorch torchvision cpuonly -c pytorch
-* conda install matplotlib
+* Source (mini)conda `. ~/miniconda3/etc/profile.d/conda.sh`
+* Create conda environment `conda create -n student-assignment`
+* Activate conda environment `conda activate student-assignment`
+* Install dependencies `conda install pytorch torchvision cpuonly -c pytorch`
+* Some more `conda install matplotlib`
 * Open `assignement.py` and do the three TODOs
 * Send me an email:
-	* With your `assignment.py`
-	* With the weights of your trained model
-	* Tell me, how many epochs are needed to reach 90% accuracy?
+  * With your `assignment.py`
+  * With the weights of your trained model
+  * Tell me, how many epochs are needed to reach 90% accuracy?
 
 	
 # Theoretical part
