@@ -1,6 +1,6 @@
 # Introduction
 
-The purpose of this assignment is to check if you have the basic knowledge to do a thesis with me or are willing to aquire the needed knowledge in short amout of time. The tasks involved are probably very similar to what you will do in the literature review/implementation/experimentation part of your thesis. Therefore, doing this assignment is *not* a waste of time.
+The purpose of this assignment is to check if you have the basic knowledge to do a thesis with me or are willing to aquire the needed knowledge in short amout of time. The tasks involved are probably very similar to what you will do in the literature review/implementation/experimentation part of your thesis. Therefore, doing this assignment is **not** a waste of time.
 
 If you have any question, please write me an email. I appreciate pro-active communication.
 
