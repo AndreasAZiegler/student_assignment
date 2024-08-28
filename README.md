@@ -24,8 +24,8 @@ If you have any question, please write me an email. I appreciate pro-active comm
 * Read [HowToReadAPaper.pdf](./HowToReadAPaper.pdf)
 * Watch [Reading Research Papers](https://youtu.be/733m6qBH-jI?t=388)
 * Read the paper "Recent Event Camera Innovations: A Survey": https://arxiv.org/pdf/2408.13627
-** To the level that you can give a five minute presentation
-** You do not have to understand and/or memorize every detail
+*   To the level that you can give a five minute presentation
+*   You do not have to understand and/or memorize every detail
 * Give me a five minutes presentation
 	
 Good luck 
