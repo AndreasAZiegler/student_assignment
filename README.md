@@ -23,7 +23,8 @@ If you have any question, please write me an email. I appreciate pro-active comm
 # Theoretical part
 * Read [HowToReadAPaper.pdf](./HowToReadAPaper.pdf)
 * Watch [Reading Research Papers](https://youtu.be/733m6qBH-jI?t=388)
-* Read the paper "Recent Event Camera Innovations: A Survey": https://arxiv.org/pdf/2408.13627
+* If you plan to do a thesis related to event-based computer vision, read the paper "Recent Event Camera Innovations: A Survey": https://arxiv.org/pdf/2408.13627, to get a basic understanding
+* Read the paper I have sent you
   * To the level that you can give a five minute presentation
   * You do not have to understand and/or memorize every detail
 * Give me a five minutes presentation
